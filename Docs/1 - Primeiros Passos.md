@@ -60,6 +60,8 @@ Essa éa estrutura minima necessária para executar um CI.
 
 # Referencia
 (1) - Do zero ao deploy #1 - Configurando o Gitlab-CI/Gitlab Pages : https://www.youtube.com/watch?v=wDjZGkfphbk 
+
+
 (2) - tutorial criar e configurar chave ssh : 
 https://gitlab.com/ad-si-2015-1/projeto1/-/wikis/tutorial-criar-e-configurar-chave-ssh
 
